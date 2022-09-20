@@ -8,7 +8,7 @@ my_string = """heyyy!, i am annu
 and i am from lucknow"""
 print(my_string)
 
-#index concept
+# #index concept
 a='ekanshi'
 print(a)
 print(a[0])
@@ -27,10 +27,10 @@ print(name[ :5])
 print(name[ ::-1])
 print(name[ :6][::-1])
 
-#every even index char.
+# #every even index char.
 print(name[::2]) 
 
-#every odd index char.
+# #every odd index char.
 print(name[1::2])
 
 x = chr(65) #convert integer to string char
@@ -49,7 +49,7 @@ print(y)
 y = ord('🤧') 
 print(y)
 
-#concatenation (joinig two or more string)
+# #concatenation (joinig two or more string)
 a ='apple'
 b ='shake'
 ab = a+b
@@ -63,7 +63,7 @@ print(msg)
 msg = w1+' '+w2+' '+w3
 print(msg)
 
-#duplication
+# #duplication
 a = 'hii'
 print(a*2)
 print('$'* 10)
