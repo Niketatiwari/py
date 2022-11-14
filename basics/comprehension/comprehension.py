@@ -7,5 +7,6 @@ xodd = [i for i in x if i % 2 != 0]
 print(xodd)
 
 xevencube = [i**3 for i in x if i % 2 == 0]
+
 print(xevencube)
 
